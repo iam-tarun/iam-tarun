@@ -22,7 +22,7 @@ Welcome to my GitHub — where I build intelligent web applications that don’t
 
 - 🧪 **Recent Projects**  
   - **RecycNet AI** – waste classification app with 90%+ accuracy using computer vision  
-  - **Medical Report Explainer** – NLP-based tool that simplifies lab test results for users  
+  - **Medical Report Explainer** (In Development) – NLP-based tool that simplifies lab test results for users  
 
 ---
 
