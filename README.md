@@ -47,8 +47,8 @@ Welcome to my GitHub — where I build intelligent web applications that don’t
 
 ## 📬 Let's Connect
 
-- 🌐 Portfolio: [your-portfolio-link](https://tarunteja.dev)
-- 💼 LinkedIn: [https://linkedin.com/in/taruntejaobbina](https://linkedin.com/in/taruntejaobbina)  
+- 🌐 Portfolio: [portfolio](https://tarunteja.dev)
+- 💼 LinkedIn: [taruntejaobbina](https://linkedin.com/in/taruntejaobbina)  
 - 📧 Email: tarunteja2810@gmail.com  
 
 ---
