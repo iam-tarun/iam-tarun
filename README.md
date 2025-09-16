@@ -18,7 +18,7 @@ Welcome to my GitHub, where I build **distributed backend systems** that scale a
 ## 🛠️ Professional Experience
 
 ### 🏢 **Meta (Current)**
-**Data Analyst** | *Sep 2024 - Present*
+**Data Analyst** | *Sep 2025 - Present*
 - Analyze and validate foundational AI model systems supporting billions of user interactions
 - Implement systematic model evaluation frameworks for production AI safety and quality
 - Collaborate with ML research teams on model behavior analysis and improvement initiatives
