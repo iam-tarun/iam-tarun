@@ -58,6 +58,13 @@ Welcome to my GitHub, where I build **distributed backend systems** that scale a
 
 ---
 
+## 📊 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iam-tarun&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iam-tarun&show_icons=true&theme=dark)
+
+---
+
 ## 🌟 Featured Projects
 
 ### 🚀 **High-Performance Distributed Cache System**
